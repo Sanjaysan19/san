@@ -52,7 +52,6 @@ a{
   height: 50px;
   border-radius: 40%;
   position: relative; 
-  left:450px;
-  top:-100px;
-  bottom: 100px;
+  left:600px;
+  top: 100px;
 }
