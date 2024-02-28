@@ -53,6 +53,6 @@ a{
   border-radius: 40%;
   position: relative; 
   left:450px;
-  top:5px;
+  top:-100px;
   bottom: 100px;
 }
